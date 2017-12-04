@@ -43,7 +43,7 @@ function fib(n) {
     return fibNum;
   }
 
-    let memo = { 1: 1, 2: 1 };
+  let memo = { 1: 1, 2: 1 };
   return fibMemo(n, memo)
 }
 ```
