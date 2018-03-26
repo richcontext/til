@@ -2,13 +2,13 @@
 
 * Run All Tests
 
-`python -m unittest discover -v`
+  - `python -m unittest discover -v`
 
 * Run Specific Tests
 
-`python -m unittest api_tests.tests`
-`python -m unittest basic_tests.tests`
-`python -m unittest vehicle_tests.tests`
+  - `python -m unittest api_tests.tests`
+  - `python -m unittest basic_tests.tests`
+  - `python -m unittest vehicle_tests.tests`
 
 ## Notes
 
